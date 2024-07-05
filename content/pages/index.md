@@ -102,6 +102,11 @@ sections:
           providing education and access to this crucial resource.
 
 
+          **(10)PRESS (Prevention, Screening, and Support)**
+
+          Our PRESS initiatives focus on holistic health care approaches,
+          integrating prevention, screening, and support for various health
+          conditions.
 
         image:
           url: /images/icon2.svg
