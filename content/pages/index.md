@@ -127,11 +127,20 @@ sections:
         title: ''
         tagline: This is the tagline
         subtitle: ''
-        text: >
+        text: >+
           **(8)Gender-Based Violence (GBV)**
 
           We work to prevent and respond to gender-based violence through
           advocacy, education, and support services for survivors.
+
+
+          **(9)Pre-Exposure Prophylaxis (PrEP)**
+
+          We promote the use of PrEP as an effective HIV prevention strategy,
+          providing education and access to this crucial resource.
+
+
+
         actions: []
         colors: bg-light-fg-dark
         styles:
