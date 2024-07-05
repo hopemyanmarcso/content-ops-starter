@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: "About Us\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_HOPE Myanmar is a dedicated non-governmental organization committed to improving the health and well-being of communities across Myanmar. Our mission is to provide comprehensive support, education, and advocacy across various sectors to create a healthier and more informed society."
+    subtitle: "About Us\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ HOPE Myanmar is a dedicated non-governmental organization committed to improving the health and well-being of communities across Myanmar. Our mission is to provide comprehensive support, education, and advocacy across various sectors to create a healthier and more informed society."
     items:
       - type: FeaturedItem
         title: 500k
