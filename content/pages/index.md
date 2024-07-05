@@ -13,7 +13,7 @@ sections:
     subtitle: "HOPE Myanmar\_ is a\_ dedicated\_ non- governmental\_ organization committed to improving the health and well-being of communities\_ across\_ Myanmar . Our\_ mission\_ is\_ to\_ provide\_ comprehensive\_ \_ \_ \_support, education, and advocacy across various sectors to\_ \_ \_ \_ create a healthier and more informed society."
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Our Areas of Focus
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
