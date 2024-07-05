@@ -65,6 +65,11 @@ sections:
           reduce transmission and promote sexual health.
 
 
+          **(5)Mental Health**
+
+          We provide mental health support through counseling services,
+          awareness campaigns, and community-based programs to reduce stigma and
+          improve access to care.
 
         image:
           url: /images/icon2.svg
