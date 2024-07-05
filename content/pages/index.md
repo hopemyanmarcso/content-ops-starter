@@ -125,7 +125,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           **(8)Gender-Based Violence (GBV)**
