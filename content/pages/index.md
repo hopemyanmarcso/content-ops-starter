@@ -92,10 +92,20 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **(6)Legal Awareness**
+
+          We empower communities with knowledge of their legal rights and
+          provide assistance to navigate legal challenges, especially for
+          marginalized groups.
+
+
+          **(7)Sexual and Reproductive Health**
+
+          Our sexual and reproductive health programs aim to provide
+          comprehensive education, resources, and services to promote informed
+          and healthy choices, including cervical cancer screening and
+          prevention.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
