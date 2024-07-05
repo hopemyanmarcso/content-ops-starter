@@ -129,20 +129,27 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: ''
-        text: >
-          **(6)Legal Awareness**
+        text: >+
+          **(11)Disability Inclusion**
 
-          We empower communities with knowledge of their legal rights and
-          provide assistance to navigate legal challenges, especially for
-          marginalized groups.
+          We advocate for and support men and women with disabilities, ensuring
+          they have access to health services, education, and opportunities for
+          empowerment
 
 
-          **(7)Sexual and Reproductive Health**
+          **(12)Cervical Cancer**
 
-          Our sexual and reproductive health programs aim to provide
-          comprehensive education, resources, and services to promote informed
-          and healthy choices, including cervical cancer screening and
-          prevention.
+          We focus on cervical cancer prevention and treatment through
+          education, screening, and vaccination programs.
+
+
+          **(13)Capacity Building**
+
+          We strengthen community capabilities by offering training and
+          resources to enhance skills, knowledge, and self-sufficiency.
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
