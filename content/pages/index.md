@@ -205,10 +205,24 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      *   **Sex Workers**
+          We support sex workers by providing health services, education, and advocating for their rights and safety.
+
+      *   **People Who Inject Drugs (PWID)**
+          Our harm reduction programs aim to reduce the health risks associated with drug use and provide pathways to support and recovery.
+
+      *   **Men Who Have Sex with Men (MSM)**
+          We offer targeted health services, education, and advocacy to support the MSM community.
+
+      *   **Lesbian, Gay, Bisexual, and Transgender (LGBT)**
+          Our LGBT initiatives focus on promoting equality, health, and well-being through supportive services, education, and advocacy.
+
+      *   **Men and Women with Disabilities**
+          We provide specialized services and support to ensure that men and women with disabilities can lead healthy, empowered lives.
+
+
+
     actions:
       - label: Get started
         altText: ''
