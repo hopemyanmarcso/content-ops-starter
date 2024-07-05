@@ -15,10 +15,19 @@ sections:
       - type: FeaturedItem
         title: Our Areas of Focus
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **(1)HIV Prevention**
+
+          We strive to reduce the incidence of HIV through awareness campaigns,
+          education, and providing access to prevention tools and resources,
+          including PrEP (pre-exposure prophylaxis).
+
+
+          **(2)Non-Communicable Diseases (NCD)**
+
+          Our initiatives aim to prevent and manage NCDs through community
+          education, early detection programs, and promoting healthy lifestyle
+          choices.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
