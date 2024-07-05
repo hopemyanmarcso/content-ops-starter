@@ -75,23 +75,21 @@ sections:
       - title: ''
         subtitle: ''
         text: >+
-          **(3)Tuberculosis (TB)**
+          **(6)Legal Awareness**
 
-          We work to combat TB by offering screening, treatment, and support
-          services, particularly in underserved communities.
-
-
-          **(4)Sexually Transmitted Infections (STI)**
-
-          Our programs focus on STI prevention, education, and treatment to
-          reduce transmission and promote sexual health.
+          We empower communities with knowledge of their legal rights and
+          provide assistance to navigate legal challenges, especially for
+          marginalized groups.
 
 
-          **(5)Mental Health**
+          **(7)Sexual and Reproductive Health**
 
-          We provide mental health support through counseling services,
-          awareness campaigns, and community-based programs to reduce stigma and
-          improve access to care.
+          Our sexual and reproductive health programs aim to provide
+          comprehensive education, resources, and services to promote informed
+          and healthy choices, including cervical cancer screening and
+          prevention.
+
+
 
         image:
           url: /images/icon2.svg
