@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HOPE Myanmar
 slug: /
 sections:
   - type: FeaturedItemsSection
