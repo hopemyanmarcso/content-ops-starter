@@ -10,11 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      HOPE Myanmar is a dedicated non-governmental organization committed to
-      improving the health and well-being of communities across Myanmar. Our
-      mission is to provide comprehensive support, education, and advocacy
-      across various sectors to create a healthier and more informed society.
+    subtitle: "HOPE Myanmar\_ is a\_ dedicated\_ non- governmental\_ organization committed to improving the health and well-being of communities\_ across\_ Myanmar . Our\_ mission\_ is\_ to\_ provide\_ comprehensive\_ \_ \_ \_support, education, and advocacy across various sectors to\_ \_ \_ \_ create a healthier and more informed society."
     items:
       - type: FeaturedItem
         title: 500k
