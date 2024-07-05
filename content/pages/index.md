@@ -119,7 +119,7 @@ sections:
           - pb-8
           - pt-8
           - pl-8
-          - pr-16
+          - pr-8
         justifyContent: flex-start
       subtitle:
         textAlign: center
