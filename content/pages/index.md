@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: HOPE Myanmar
+      label: ''
       color: text-primary
       styles:
         self:
