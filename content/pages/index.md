@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Our Areas of Focus
-        subtitle: Numbers Done
+        subtitle: 13 Area
         text: >
           **(1)HIV Prevention**
 
