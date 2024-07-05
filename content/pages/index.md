@@ -140,6 +140,32 @@ sections:
           providing education and access to this crucial resource.
 
 
+          **(10)PRESS (Prevention, Screening, and Support)**
+
+          Our PRESS initiatives focus on holistic health care approaches,
+          integrating prevention, screening, and support for various health
+          conditions.
+
+
+          **(11)Disability Inclusion**
+
+          We advocate for and support men and women with disabilities, ensuring
+          they have access to health services, education, and opportunities for
+          empowerment
+
+
+          **(12)Cervical Cancer**
+
+          We focus on cervical cancer prevention and treatment through
+          education, screening, and vaccination programs.
+
+
+          **(13)Capacity Building**
+
+          We strengthen community capabilities by offering training and
+          resources to enhance skills, knowledge, and self-sufficiency.
+
+
 
         actions: []
         colors: bg-light-fg-dark
