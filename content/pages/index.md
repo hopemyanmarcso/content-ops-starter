@@ -51,7 +51,7 @@ sections:
             self:
               borderRadius: x-large
       - title: ''
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           **(3)Tuberculosis (TB)**
 
