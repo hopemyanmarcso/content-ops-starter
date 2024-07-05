@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: HOPE Myanmar
+      text: About Us
       color: text-dark
       styles:
         self:
