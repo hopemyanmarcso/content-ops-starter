@@ -233,7 +233,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Our Strategic Plan
         altText: ''
         url: /
         showIcon: true
