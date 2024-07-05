@@ -127,8 +127,11 @@ sections:
         title: ''
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          **(8)Gender-Based Violence (GBV)**
+
+          We work to prevent and respond to gender-based violence through
+          advocacy, education, and support services for survivors.
         actions: []
         colors: bg-light-fg-dark
         styles:
