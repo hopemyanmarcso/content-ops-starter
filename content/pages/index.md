@@ -121,6 +121,8 @@ sections:
           - pl-8
           - pr-8
         justifyContent: flex-start
+        margin:
+          - mt-4
       subtitle:
         textAlign: center
   - type: GenericSection
