@@ -52,10 +52,11 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **(3)Tuberculosis (TB)**
+
+          We work to combat TB by offering screening, treatment, and support
+          services, particularly in underserved communities.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
