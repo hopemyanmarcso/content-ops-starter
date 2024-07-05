@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Our Areas of Focus
         subtitle: 13 Area
-        text: >
+        text: >+
           **(1)HIV Prevention**
 
           We strive to reduce the incidence of HIV through awareness campaigns,
@@ -28,6 +28,28 @@ sections:
           Our initiatives aim to prevent and manage NCDs through community
           education, early detection programs, and promoting healthy lifestyle
           choices.
+
+
+          **(3)Tuberculosis (TB)**
+
+          We work to combat TB by offering screening, treatment, and support
+          services, particularly in underserved communities.
+
+
+          **(4)Sexually Transmitted Infections (STI)**
+
+          Our programs focus on STI prevention, education, and treatment to
+          reduce transmission and promote sexual health.
+
+
+          **(5)Mental Health**
+
+          We provide mental health support through counseling services,
+          awareness campaigns, and community-based programs to reduce stigma and
+          improve access to care.
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
