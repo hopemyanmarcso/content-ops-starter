@@ -52,11 +52,20 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: The Job Stuff
-        text: >
+        text: >+
           **(3)Tuberculosis (TB)**
 
           We work to combat TB by offering screening, treatment, and support
           services, particularly in underserved communities.
+
+
+          **(4)Sexually Transmitted Infections (STI)**
+
+          Our programs focus on STI prevention, education, and treatment to
+          reduce transmission and promote sexual health.
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
