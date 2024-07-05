@@ -91,7 +91,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        subtitle: Faster
+        subtitle: ''
         text: >
           **(6)Legal Awareness**
 
