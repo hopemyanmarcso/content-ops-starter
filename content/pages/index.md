@@ -576,7 +576,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Recent Advances in Tuberculosis Prevention and Treatment in Yangon
         tagline: ''
         subtitle: This is the item subtitle
         text: >+
