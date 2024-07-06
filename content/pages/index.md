@@ -888,7 +888,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >+
       Non-Governmental Organizations (NGOs), such as HOPE Myanmar, play a
       pivotal role in addressing social, environmental, and humanitarian
