@@ -292,7 +292,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Key Pricipal
+        title: Key Principles of Our Work
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
