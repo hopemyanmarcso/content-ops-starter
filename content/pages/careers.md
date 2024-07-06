@@ -192,10 +192,13 @@ sections:
     items:
       - title: Volunteer
         subtitle: '>>> Unpaid >>>'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          allowance TA+Insurance+Ph Bill+Meal Provide
+
+          Period(6) Months
+
+          Chance to Staff 
+
         colors: bg-neutral-fg-dark
         styles:
           self:
