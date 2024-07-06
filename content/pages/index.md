@@ -452,7 +452,7 @@ sections:
     items:
       - title: Recent Developments in HIV Prevention and Treatment in Myanmar
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
 
 
