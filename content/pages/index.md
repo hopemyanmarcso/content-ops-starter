@@ -721,7 +721,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Three
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           **Yangon, Myanmar –** In a decisive move to address the pervasive
           issue of gender-based violence (GBV), Yangon has recently launched a
