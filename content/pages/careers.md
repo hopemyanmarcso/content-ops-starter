@@ -192,13 +192,14 @@ sections:
     items:
       - title: Volunteer
         subtitle: '>>> Unpaid >>>'
-        text: |+
+        text: |
           allowance TA+Insurance+Ph Bill+Meal Provide
 
           Period(6) Months
 
-          Chance to Staff 
+          Chance to Staff
 
+          pls connect to hopemyanmar.carrier\@gmail.com or09963318014
         colors: bg-neutral-fg-dark
         styles:
           self:
