@@ -124,7 +124,7 @@ sections:
 
 
     actions:
-      - label: pls connect to the hopemyanmar.carrier@gmail.com
+      - label: "pls connect to the hopemyanmar.carrier@gmail.com\_ or 09963318014"
         url: /
         icon: arrowRight
         iconPosition: right
