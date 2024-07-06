@@ -262,8 +262,12 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          At HOPE Myanmar, our theme is rooted in the belief that health and
+          education are fundamental rights that empower individuals and
+          communities. By addressing critical health issues and providing
+          essential education and resources, we aim to foster a society where
+          everyone has the opportunity to lead a healthy, informed, and
+          empowered life.
         tagline: Empowerment Through Health and Education
         subtitle: 'Maria Walters, Company'
         text: >-
