@@ -215,10 +215,128 @@ sections:
         type: FeaturedItem
       - title: Conunsellor
         subtitle: Paid Staff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Position Title:** Counsellor
+
+          **Reports To:** Program Manager
+
+          **Location:** Various Locations Across Myanmar
+
+          **Employment Type:** Full-time/Part-time/Volunteer
+
+
+          ### Overview
+
+
+          HOPE Myanmar is a dedicated non-governmental organization committed to
+          improving the health and well-being of communities across Myanmar. We
+          are seeking a compassionate and experienced Counsellor to join our
+          team. The successful candidate will provide mental health support,
+          guidance, and education to individuals and groups within our community
+          programs, helping to reduce stigma and improve access to care.
+
+
+          ### Key Responsibilities
+
+
+          *   **Provide Individual and Group Counseling:**
+
+              *   Offer confidential counseling sessions to individuals dealing with a variety of mental health issues, including stress, anxiety, depression, trauma, and relationship problems.
+
+              *   Facilitate group therapy sessions and support groups, providing a safe space for individuals to share their experiences and support one another.
+
+          *   **Conduct Assessments:**
+
+              *   Perform initial assessments to understand clients' mental health needs, develop treatment plans, and set achievable goals.
+
+              *   Utilize standardized assessment tools to monitor clients' progress and adjust treatment plans as necessary.
+
+          *   **Develop and Implement Programs:**
+
+              *   Design and deliver mental health education programs and workshops for community members, promoting awareness and understanding of mental health issues.
+
+              *   Collaborate with other team members to integrate mental health support into existing health programs and initiatives.
+
+          *   **Crisis Intervention:**
+
+              *   Provide immediate support and intervention for individuals in crisis, including risk assessment and developing safety plans.
+
+              *   Liaise with other health professionals and community resources to ensure comprehensive care for clients in crisis.
+
+          *   **Record Keeping and Reporting:**
+
+              *   Maintain accurate and confidential records of counseling sessions, assessments, and treatment plans.
+
+              *   Prepare regular reports on client progress and program outcomes for review by the Program Manager.
+
+          *   **Community Outreach:**
+
+              *   Engage with local communities to promote HOPE Myanmar’s mental health services and reduce stigma associated with seeking mental health support.
+
+              *   Participate in community events and outreach activities to raise awareness about mental health and available resources.
+
+          ### Qualifications
+
+
+          *   **Education:**
+
+              *   A Bachelor’s or Master’s degree in Psychology, Counseling, Social Work, or a related field.
+
+              *   Certification or licensure in counseling or a related discipline is preferred.
+
+          *   **Experience:**
+
+              *   Minimum of 2 years of experience in providing counseling services, preferably within a community or non-governmental organization setting.
+
+              *   Experience in crisis intervention and working with diverse populations.
+
+          *   **Skills and Abilities:**
+
+              *   Strong interpersonal and communication skills, with the ability to build rapport and trust with clients.
+
+              *   Excellent problem-solving and critical-thinking abilities.
+
+              *   Ability to handle sensitive information with confidentiality and professionalism.
+
+              *   Proficiency in using counseling and assessment tools.
+
+              *   Fluency in Myanmar language; proficiency in English is an advantage.
+
+          *   **Personal Attributes:**
+
+              *   Empathetic and compassionate, with a strong commitment to helping others.
+
+              *   Adaptable and resilient, able to work in challenging and dynamic environments.
+
+              *   Strong ethical standards and integrity.
+
+          ### Benefits
+
+
+          *   Competitive salary and benefits package.
+
+
+          *   Opportunities for professional development and training.
+
+
+          *   Supportive and collaborative work environment.
+
+
+          *   Opportunity to make a meaningful impact on the health and
+          well-being of communities across Myanmar.
+
+
+          ### How to Apply
+
+
+          Interested candidates are invited to submit their resume, cover
+          letter, and contact information for three references to
+          hopemyanmar.carrier\@gmail.com. Please include “Counsellor
+          Application” in the subject line. Applications will be reviewed on a
+          rolling basis until the position is filled.
+
+
+
         colors: bg-neutral-fg-dark
         styles:
           self:
