@@ -124,7 +124,7 @@ sections:
 
 
     actions:
-      - label: See open positions
+      - label: pls connect to the hopemyanmar.carrier@gmail.com
         url: /
         icon: arrowRight
         iconPosition: right
