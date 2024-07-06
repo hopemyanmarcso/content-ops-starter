@@ -432,33 +432,6 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
