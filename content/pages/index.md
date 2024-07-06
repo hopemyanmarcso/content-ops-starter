@@ -261,13 +261,7 @@ sections:
     subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: >-
-          At HOPE Myanmar, our theme is rooted in the belief that health and
-          education are fundamental rights that empower individuals and
-          communities. By addressing critical health issues and providing
-          essential education and resources, we aim to foster a society where
-          everyone has the opportunity to lead a healthy, informed, and
-          empowered life.
+        title: ''
         tagline: Empowerment Through Health and Education
         subtitle: ''
         text: >-
