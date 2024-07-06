@@ -295,10 +295,26 @@ sections:
         title: Key Principles of Our Work
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          1.  **Inclusivity**
+              We are committed to serving diverse communities, ensuring that our programs are accessible and beneficial to everyone, regardless of their background or circumstances.
+
+          2.  **Comprehensive Care**
+              Our holistic approach addresses a wide range of health and social issues, providing integrated services that meet the complex needs of our communities.
+
+          3.  **Advocacy and Awareness**
+              We actively promote awareness and advocate for the rights of marginalized groups, striving to create a more just and equitable society.
+
+          4.  **Community Engagement**
+              We believe in the power of community-driven initiatives and work closely with local partners to design and implement effective programs.
+
+          5.  **Sustainability**
+              Our efforts are geared towards creating lasting change by building the capacity of individuals and communities to sustain health and well-being.
+
+          ###
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
