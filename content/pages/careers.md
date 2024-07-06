@@ -214,7 +214,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Conunsellor
-        subtitle: Marketing
+        subtitle: Paid Staff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
