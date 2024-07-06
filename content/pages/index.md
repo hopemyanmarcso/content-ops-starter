@@ -719,7 +719,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: New Initiatives to Combat Gender-Based Violence in Yangon
         tagline: ''
         subtitle: ''
         text: >+
