@@ -578,7 +578,7 @@ sections:
         type: FeaturedItem
       - title: Recent Advances in Tuberculosis Prevention and Treatment in Yangon
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           **Yangon, Myanmar –** As part of ongoing efforts to combat
           tuberculosis (TB), Yangon has seen significant advancements in both
