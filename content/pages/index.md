@@ -293,7 +293,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Key Principles of Our Work
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
